@@ -4,6 +4,12 @@ This is the workspace pattern for the error detection of roboy.
 
 ## Installation
 
+### 0. Run ROS Master
+
+```bash
+roscore
+```
+
 ### 1. Clone Repo
 
 ```bash
