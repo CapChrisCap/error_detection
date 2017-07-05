@@ -50,6 +50,7 @@ see [https://devanthro.atlassian.net/wiki/display/CO/Tutorial+of+how+to+control+
 ### 6. Open the UI
 
 ```
+# ONLY WITH ROOT RIGHTS: sudo -s
 rosrun roboy_interface roboy_interface
 ```
 
@@ -59,5 +60,7 @@ For more information see [https://devanthro.atlassian.net/wiki/display/CO/Tutori
 
 E.g. `rosrun roboy_error_detection roboy_error_detection_presentation`
 
+and check if there are some notifications: 
 
+E.g. `rostopic echo /roboy/system_notification/warning`
 
