@@ -1,0 +1,24 @@
+[submodule "src/common_utilities"]
+	path = src/common_utilities
+	url = https://github.com/Roboy/common_utilities
+[submodule "src/roboy_interface"]
+	path = src/roboy_interface
+	url = https://github.com/Roboy/roboy_interface
+[submodule "src/roboy_realsense"]
+	path = src/roboy_realsense
+	url = https://github.com/Roboy/roboy_realsense
+[submodule "src/roboy_communication"]
+	path = src/roboy_communication
+	url = https://github.com/CapChrisCap/roboy_communication
+[submodule "src/roboy_error_detection"]
+	path = src/roboy_error_detection
+	url = https://github.com/CapChrisCap/roboy_error_detection
+[submodule "src/roboy_system_notification"]
+	path = src/roboy_system_notification
+	url = https://github.com/CapChrisCap/roboy_system_notification
+[submodule "src/roboy_powerlink"]
+	path = src/roboy_powerlink
+	url = https://github.com/Roboy/roboy_powerlink
+[submodule "src/roboy_managing_node"]
+	path = src/roboy_managing_node
+	url = https://github.com/Roboy/roboy_managing_node
