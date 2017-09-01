@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-One new feature of the new Roboy version will be a increased maintainability. Therefore,
+One new feature of the new Roboy version will be an increased maintainability. Therefore,
 the following features (just an excerpt!) will be implemented this semester (SS2017):
 
  * Improved Calibration
@@ -19,14 +19,12 @@ Apart from the improved calibration, another feature of Roboy 2.0 should be to d
    
 ![System Overview](./screenshots/slide_system_overview.PNG)
 
-Therefore, the subtasks for this semester are:
+Therefore, the tasks for this semester are:
 
-After this semester, the 
-following use-cases should be implemented: 
- - Task 1: an API is provided to send and publish notifications to other network participants (like sharing motor error messages)
+ - **Task 1**: an API is provided to send and publish notifications to other network participants (like sharing motor error messages)
     - [Define notification messages](notification-module-messages.md)
     - [Implement ROS notification module](notification-module.md)
- - Task 2: a new ROS module should be created, which listens to joints and motors to evaluate them and send/publish/share error messages
+ - **Task 2**: a new ROS module should be created, which listens to joint angles and motors to evaluate their values and send/publish/share error messages
    to other network participants
     - [Familiarize with motors and joints](./familiarize-with-motors-and-joints.md)
     - [Define possible motor and joint states](./define-possible-motor-and-joint-states.md)

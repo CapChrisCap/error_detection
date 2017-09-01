@@ -29,5 +29,6 @@ Now the subscriber knows, that the motor one is dead. Nevertheless, this solutio
  - Not reusable
  
  As a solution to these limitations, I implemented the Roboy Error Detection module, which can be accessed on Github: 
+
   - [Module source code](https://github.com/CapChrisCap/roboy_error_detection)
   - [Module documentation](http://roboy-error-detection-module.readthedocs.io/en/latest/)
