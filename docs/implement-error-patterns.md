@@ -9,7 +9,7 @@ system components, so that they can access them and know what's currently happen
 
 ### Solution
 
-We provide a [SystemNotification component](https://github.com/CapChrisCap/roboy_system_notification) for ROS, which allows you to publish messages with a 
+We provide a [SystemNotification component](https://github.com/Roboy/roboy_system_notification) for ROS, which allows you to publish messages with a 
 simple API call over the network. 
 
 Example: 
@@ -30,5 +30,5 @@ Now the subscriber knows, that the motor one is dead. Nevertheless, this solutio
  
  As a solution to these limitations, I implemented the Roboy Error Detection module, which can be accessed on Github: 
 
-  - [Module source code](https://github.com/CapChrisCap/roboy_error_detection)
+  - [Module source code](https://github.com/Roboy/roboy_error_detection)
   - [Module documentation](http://roboy-error-detection-module.readthedocs.io/en/latest/)

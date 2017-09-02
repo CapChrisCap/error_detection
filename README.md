@@ -14,7 +14,7 @@ roscore
 
 ```bash
 cd YOUR_DEST_DIR
-git clone --recursive https://github.com/CapChrisCap/error_detection .
+git clone --recursive https://github.com/Roboy/error_detection .
 ```
 
 ### 2. Change path to powerlink

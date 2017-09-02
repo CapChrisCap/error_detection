@@ -9,13 +9,13 @@
 	url = https://github.com/Roboy/roboy_realsense
 [submodule "src/roboy_communication"]
 	path = src/roboy_communication
-	url = https://github.com/CapChrisCap/roboy_communication
+	url = https://github.com/Roboy/roboy_communication
 [submodule "src/roboy_error_detection"]
 	path = src/roboy_error_detection
-	url = https://github.com/CapChrisCap/roboy_error_detection
+	url = https://github.com/Roboy/roboy_error_detection
 [submodule "src/roboy_system_notification"]
 	path = src/roboy_system_notification
-	url = https://github.com/CapChrisCap/roboy_system_notification
+	url = https://github.com/Roboy/roboy_system_notification
 [submodule "src/roboy_powerlink"]
 	path = src/roboy_powerlink
 	url = https://github.com/Roboy/roboy_powerlink
